@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anagram-app/static/css/main.4500c677.css",
+    "main.js": "/anagram-app/static/js/main.1deb63ed.js",
+    "index.html": "/anagram-app/index.html",
+    "main.4500c677.css.map": "/anagram-app/static/css/main.4500c677.css.map",
+    "main.1deb63ed.js.map": "/anagram-app/static/js/main.1deb63ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4500c677.css",
+    "static/js/main.1deb63ed.js"
+  ]
+}
